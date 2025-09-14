@@ -1,0 +1,229 @@
+/* ROOT */
+.pm-root {
+  display: flex;
+  height: 100vh;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  background: linear-gradient(180deg,#f8fbf8,#f4fbf6);
+  color: #0b3d2a;
+  overflow: hidden;
+}
+
+/* LEFT PANEL */
+.pm-left {
+  width: 360px;
+  padding: 24px;
+  background: linear-gradient(180deg,#ffffff,#f4f9f4);
+  border-right: 1px solid rgba(20,60,30,0.06);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  box-sizing: border-box;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+/* BRAND */
+.pm-brand { margin-bottom: 18px; }
+.pm-title {
+  font-size: 30px;
+  font-weight: 900;
+  color: #083e2b;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  line-height: 1;
+}
+.pm-flag-icon {
+  width: 40px;
+  height: 26px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 4px 14px rgba(5,50,20,0.06);
+}
+.pm-sub {
+  color: #526363;
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+/* SECTION TITLE */
+.pm-section-title {
+  font-weight: 700;
+  color: #144f34;
+}
+
+/* ALL PAKISTAN BUTTON */
+.prov-btn.allpak {
+  margin: 8px 0 12px 2px;
+  width: 100%;
+}
+
+/* PROVINCE BUTTONS */
+.prov-btn {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid rgba(30,100,40,0.12);
+  background: #fff;
+  color: #094424;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform .12s, box-shadow .12s, background .12s;
+  text-align: center;
+  user-select: none;
+}
+.prov-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(10,70,30,0.06);
+}
+.prov-btn.active {
+  background: linear-gradient(180deg,#0b6623,#0a5320);
+  color: #fff;
+  box-shadow: 0 10px 30px rgba(11,102,35,0.12);
+}
+
+/* GRID */
+.pm-province-grid-2cols {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-top: 10px;
+  margin-bottom: 6px;
+}
+
+/* SECTION SPACING */
+.pm-section { margin-bottom: 16px; }
+
+/* SCORE */
+.pm-score {
+  font-size: 16px;
+  display:flex;
+  gap:8px;
+  align-items:center;
+  color:#0b4f2c;
+  margin-top: 6px;
+}
+.pm-score span { font-weight: 700; }
+
+/* FORM */
+.pm-guess-form {
+  display:flex;
+  flex-direction: column;
+  gap:10px;
+  margin-top: 8px;
+}
+.pm-input {
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid #d6e6d6;
+  font-size: 14px;
+  outline: none;
+  background: #fff;
+}
+.pm-input:focus {
+  box-shadow: 0 6px 18px rgba(11,102,35,0.08);
+  border-color: #0b6623;
+}
+.pm-guess-actions {
+  display:flex;
+  gap:8px;
+  align-items:center;
+}
+
+/* BUTTONS */
+.pm-btn {
+  padding: 8px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 700;
+  transition: transform .12s, box-shadow .12s;
+  border: none;
+}
+.pm-btn.primary {
+  background: #0b6623;
+  color: white;
+}
+.pm-btn.primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(11,102,35,0.16);
+}
+.pm-btn.ghost {
+  background: transparent;
+  color: #0b6623;
+  border: 1px solid #cce6cc;
+}
+.pm-btn.dashed {
+  border: 1px dashed #0b6623;
+  background: transparent;
+  color: #0b6623;
+}
+.pm-btn.dashed:hover {
+  background: #f2faf2;
+}
+.pm-tip {
+  margin-top: 4px;
+  font-size: 13px;
+  color: #566;
+  line-height: 1.4;
+}
+
+/* MAP AREA */
+.pm-map { flex:1; height:100vh; }
+
+/* MODAL */
+.pm-modal-backdrop {
+  position: fixed; inset:0;
+  background: rgba(0,0,0,0.5);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  z-index:1000;
+}
+.pm-modal {
+  background: #fff;
+  border-radius: 10px;
+  padding: 24px;
+  width: 600px;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+.pm-missed-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin-top: 16px;
+}
+.pm-missed-prov-title {
+  font-weight: 700;
+  margin-bottom: 6px;
+  color: #0b3d2a;
+}
+.pm-modal-controls {
+  margin-top: 16px;
+  display:flex;
+  justify-content:flex-end;
+}
+
+/* Province labels auto-fit */
+.province-label-box {
+  background: rgba(255,255,255,0.9);
+  border-radius: 6px;
+  padding: 3px 8px;
+  font-weight: 700;
+  font-size: 13px;
+  color: #083e2b;
+  border: 1px solid rgba(0,0,0,0.08);
+  white-space: nowrap;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+  display: inline-block;
+}
+
+/* District guessed labels in red */
+.district-label-red {
+  font-size: 12px;
+  font-weight: 700;
+  color: red;
+  background: transparent;
+  padding: 0;
+  white-space: nowrap;
+}

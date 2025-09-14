@@ -1,0 +1,171 @@
+district,province,latitude,longitude,status
+Attock,Punjab,33.7695323,72.3610911,ok
+Bahawalnagar,Punjab,29.9935922,73.2527621,ok
+Bahawalpur,Punjab,29.394644,71.6638747,ok
+Bhakkar,Punjab,31.6303103,71.0676914,ok
+Chakwal,Punjab,32.932827,72.8629763,ok
+Chiniot,Punjab,31.7309524,72.9834213,ok
+Dera Ghazi Khan,Punjab,30.0321374,70.6401114,ok
+Faisalabad,Punjab,31.4220558,73.0923253,ok
+Gujranwala,Punjab,32.1525312,74.1933745,ok
+Gujrat,Punjab,32.5686782,74.071481,ok
+Hafizabad,Punjab,32.0719134,73.6884523,ok
+Jhang,Punjab,31.2728805,72.3103071,ok
+Jhelum,Punjab,32.9247256,73.719388,ok
+Kasur,Punjab,31.1175143,74.4478314,ok
+Khanewal,Punjab,30.3022528,71.9278916,ok
+Khushab,Punjab,32.2903666,72.3515792,ok
+Lahore,Punjab,31.5656822,74.3141829,ok
+Layyah,Punjab,30.964868,70.9455995,ok
+Lodhran,Punjab,29.5390395,71.6344196,ok
+Mandi Bahauddin,Punjab,32.5846351,73.4914169,ok
+Mianwali,Punjab,32.5705533,71.5239763,ok
+Multan,Punjab,30.197838,71.4719683,ok
+Muzaffargarh,Punjab,30.0743097,71.1906224,ok
+Nankana Sahib,Punjab,31.4548712,73.7090967,ok
+Narowal,Punjab,32.1009752,74.872238,ok
+Okara,Punjab,30.8091281,73.4493301,ok
+Pakpattan,Punjab,30.3422503,73.3891875,ok
+Rahim Yar Khan,Punjab,28.417607,70.3036512,ok
+Rajanpur,Punjab,29.1002249,70.3377049,ok
+Rawalpindi,Punjab,33.5915446,73.053721,ok
+Sahiwal,Punjab,30.6715098,73.1110572,ok
+Sargodha,Punjab,32.0836514,72.676461,ok
+Sheikhupura,Punjab,31.7085285,73.9864014,ok
+Sialkot,Punjab,32.4935378,74.5411575,ok
+Toba Tek Singh,Punjab,30.9777056,72.4860799,ok
+Vehari,Punjab,30.0480417,72.3563519,ok
+Talagang,Punjab,32.9235108,72.4139769,ok
+Murree,Punjab,33.9056829,73.392674,ok
+Taunsa,Punjab,30.5130607,70.8496423,ok
+Kot Addu,Punjab,30.4692602,70.9678776,ok
+Wazirabad,Punjab,32.4417427,74.1182117,ok
+Badin,Sindh,24.6622996,68.8383651,ok
+Dadu,Sindh,26.7274836,67.7804974,ok
+Ghotki,Sindh,27.9939917,69.3134549,ok
+Hyderabad,Sindh,25.4075358,68.3613456,ok
+Jacobabad,Sindh,28.2813094,68.4364361,ok
+Jamshoro,Sindh,25.4152977,68.3506796,ok
+Karachi Central,Sindh,24.8343554,67.0480988,ok
+Karachi East,Sindh,24.8381531,67.067704,ok
+Karachi South,Sindh,24.8667576,67.0173066,ok
+Karachi West,Sindh,24.8745377,67.0185934,ok
+Kashmore,Sindh,28.4322915,69.5814755,ok
+Keamari,Sindh,24.821889,66.9840531,ok
+Khairpur,Sindh,27.5204873,68.7383149,ok
+Korangi,Sindh,24.8206928,67.1403735,ok
+Larkana,Sindh,27.5564798,68.2101509,ok
+Malir,Sindh,24.8959185,67.1969187,ok
+Matiari,Sindh,25.597916,68.4422804,ok
+Mirpur Khas,Sindh,25.5263882,69.0112387,ok
+Naushahro Feroze,Sindh,26.8561567,68.120881,ok
+Sanghar,Sindh,26.0470447,68.9492402,ok
+Shaheed Benazirabad,Sindh,26.3175255,68.3082908,ok
+Shikarpur,Sindh,27.9577983,68.6465513,ok
+Sujawal,Sindh,27.9618248,68.0521873,ok
+Sukkur,Sindh,27.7004292,68.8664623,ok
+Tando Allahyar,Sindh,25.4619907,68.7198264,ok
+Tando Muhammad Khan,Sindh,25.1233226,68.5335594,ok
+Tharparkar,Sindh,25.684084,69.0778399,ok
+Thatta,Sindh,24.8552533,67.212909,ok
+Umerkot,Sindh,25.3637176,69.7339569,ok
+Abbottabad,Khyber Pakhtunkhwa,34.1436136,73.2132747,ok
+Allai,Khyber Pakhtunkhwa,34.8298599,73.0613989,ok
+Battagram,Khyber Pakhtunkhwa,34.6785555,73.0281188,ok
+Haripur,Khyber Pakhtunkhwa,33.9944889,72.9331737,ok
+Kolai Palas,Khyber Pakhtunkhwa,35.066544,73.249767,ok
+Torghar,Khyber Pakhtunkhwa,34.5306013,72.8490411,ok
+Upper Kohistan,Khyber Pakhtunkhwa,35.4319364,73.2430308,ok
+Lower Kohistan,Khyber Pakhtunkhwa,35.1518949,72.9256871,ok
+Mansehra,Khyber Pakhtunkhwa,34.3286855,73.1993125,ok
+Hangu,Khyber Pakhtunkhwa,33.527996,71.0575407,ok
+Karak,Khyber Pakhtunkhwa,33.1160464,71.0950863,ok
+Kohat,Khyber Pakhtunkhwa,33.5967144,71.4399944,ok
+Kurram,Khyber Pakhtunkhwa,33.6888492,70.3855522,ok
+Orakzai,Khyber Pakhtunkhwa,33.6945197,70.8706089,ok
+Bannu,Khyber Pakhtunkhwa,32.9857007,70.6036017,ok
+Lakki Marwat,Khyber Pakhtunkhwa,32.6056744,70.9113526,ok
+North Waziristan,Khyber Pakhtunkhwa,32.9528061,69.9417203,ok
+Khyber,Khyber Pakhtunkhwa,34.0019893,71.4805342,ok
+Mohmand,Khyber Pakhtunkhwa,34.445445,71.3714923,ok
+Nowshera,Khyber Pakhtunkhwa,34.0155606,71.981283,ok
+Peshawar,Khyber Pakhtunkhwa,34.0123846,71.5787458,ok
+Charsadda,Khyber Pakhtunkhwa,34.1461506,71.7337464,ok
+Dera Ismail Khan,Khyber Pakhtunkhwa,31.827527,70.9090919,ok
+Upper South Waziristan,Khyber Pakhtunkhwa,32.4591585,69.8259392,ok
+Lower South Waziristan,Khyber Pakhtunkhwa,32.2114579,69.5587647,ok
+Tank,Khyber Pakhtunkhwa,32.2096916,70.3881146,ok
+Mardan,Khyber Pakhtunkhwa,34.1937969,72.0451467,ok
+Swabi,Khyber Pakhtunkhwa,34.1262144,72.4743164,ok
+Upper Chitral,Khyber Pakhtunkhwa,36.331791,72.2871568,ok
+Upper Dir,Khyber Pakhtunkhwa,35.4050022,72.1144401,ok
+Lower Chitral,Khyber Pakhtunkhwa,35.85017,71.8240496,ok
+Lower Dir,Khyber Pakhtunkhwa,34.8450852,71.8795222,ok
+Malakand,Khyber Pakhtunkhwa,34.5730269,71.9318872,ok
+Shangla,Khyber Pakhtunkhwa,34.956944,72.848056,ok
+Swat,Khyber Pakhtunkhwa,35.2324749,72.511635,ok
+Bajaur,Khyber Pakhtunkhwa,34.7763887,71.5144196,ok
+Buner,Khyber Pakhtunkhwa,34.1818504,72.4355807,ok
+Central Dir District,Khyber Pakhtunkhwa,35.0893988,72.0300151,ok
+Awaran,Balochistan,26.166667,65.5,ok
+Hub,Balochistan,25.0209343,66.8772831,ok
+Lasbela,Balochistan,25.8466431,66.630018,ok
+Surab,Balochistan,28.3693807,66.1614576,ok
+Mastung,Balochistan,30.0906473,66.971007,ok
+Khuzdar,Balochistan,27.8000135,66.6166537,ok
+Kalat,Balochistan,30.2077938,66.9974249,ok
+Chaman,Balochistan,30.9248781,66.4406987,ok
+Pishin,Balochistan,30.2032074,67.0053835,ok
+Quetta,Balochistan,30.1916569,67.0006542,ok
+Qila Abdullah,Balochistan,30.7499813,66.749985,ok
+Sohbatpur,Balochistan,28.3768877,68.3505242,ok
+Nasirabad,Balochistan,28.9416572,67.6711836,ok
+Usta Muhammad,Balochistan,28.1773027,68.0488066,ok
+Jafarabad,Balochistan,28.278509,68.1448502,ok
+Jhal Magsi,Balochistan,28.2818084,67.4522969,ok
+Kachhi,Balochistan,28.666667,67.75,ok
+Chagai,Balochistan,29.0,64.0,ok
+Kharan,Balochistan,28.5614204,65.4905319,ok
+Nushki,Balochistan,29.5388083,66.0228026,ok
+Ziarat,Balochistan,30.2190989,67.0101838,ok
+Harnai,Balochistan,30.0997222,67.9352476,ok
+Kohlu,Balochistan,29.8979236,69.2535179,ok
+Dera Bugti,Balochistan,28.833333,69.0,ok
+Sibi,Balochistan,29.5476446,67.8701026,ok
+Barkhan,Balochistan,29.5,69.666667,ok
+Loralai,Balochistan,30.366865,68.6000654,ok
+Panjgur,Balochistan,26.9553442,64.1346283,ok
+Gwadar,Balochistan,25.1925141,62.3271924,ok
+Kech,Balochistan,26.0290067,63.5745853,ok
+Zhob,Balochistan,31.3578731,69.4640204,ok
+Qilla Saifullah,Balochistan,30.6947755,68.3633495,ok
+Muzaffarabad,Azad Jammu and Kashmir,34.3734751,73.4702407,ok
+Hattian Bala,Azad Jammu and Kashmir,34.170579,73.7428353,ok
+Neelam Valley,Azad Jammu and Kashmir,34.8821145,74.1480518,ok
+Mirpur,Azad Jammu and Kashmir,33.1486351,73.7482102,ok
+Bhimber,Azad Jammu and Kashmir,32.9740589,74.0738531,ok
+Kotli,Azad Jammu and Kashmir,33.4649392,73.903354,ok
+Poonch,Azad Jammu and Kashmir,33.7550374,73.9530286,ok
+Bagh,Azad Jammu and Kashmir,33.9800085,73.7737878,ok
+Haveli,Azad Jammu and Kashmir,33.8800037,74.1052303,ok
+Sudhanoti,Azad Jammu and Kashmir,33.7142661,73.6900414,ok
+Ghanche,Gilgit-Baltistan,35.2078282,76.4649367,ok
+Skardu,Gilgit-Baltistan,35.2863724,75.6400746,ok
+Roundu,Gilgit-Baltistan,35.6192373,75.1328641,ok
+Kharmang,Gilgit-Baltistan,34.962849,76.2098917,ok
+Shigar,Gilgit-Baltistan,35.4639544,75.6831923,ok
+Astore,Gilgit-Baltistan,35.3566152,74.8569804,ok
+Diamer,Gilgit-Baltistan,35.3762471,74.215098,ok
+Darel,Gilgit-Baltistan,35.6620734,73.6176436,ok
+Tangir,Gilgit-Baltistan,35.6380998,73.4536423,ok
+Ghizer,Gilgit-Baltistan,36.3823847,73.8188899,ok
+Nagar,Gilgit-Baltistan,36.3042502,74.26652,ok
+Gupis–Yasin,Gilgit-Baltistan,36.2766705,73.1030548,ok
+Gilgit,Gilgit-Baltistan,35.9208102,74.314044,ok
+Hunza,Gilgit-Baltistan,36.2993187,74.613428,ok
+Islamabad,Islamabad Capital Territory,33.6938118,73.0651511,ok
+Qambar Shahdadkot,Sindh,27.5848,67.9536,manual
+Washuk,Balochistan,27.6911,65.2833,manual
+Duki,Balochistan,30.1531,68.5706,manual
+Musakhel,Balochistan,30.8586,69.8222,manual
+Sherani,Balochistan,32.3036,69.6811,manual
