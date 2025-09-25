@@ -3,6 +3,20 @@ Pakistan Map District Guessing Game 🎯🗺️
 An interactive district guessing game for Pakistan, built with React (frontend) and FastAPI (backend).
 Players can test their knowledge by typing district names — correct guesses appear on the map in real-time.
 
+Screenshots of UI
+
+<img width="1366" height="620" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/f1dd87c6-442e-4d5a-ac00-a20a30fa205d" />
+
+
+
+<img width="1366" height="622" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/6a3d8c84-96af-475b-bf20-8b72d626222d" />
+
+
+
+<img width="1366" height="620" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/59cc93cf-007c-42ad-a01f-823db3d4b06d" />
+
+
+
 🚀 Features
 
 🗺️ Interactive Pakistan map with provinces and districts.
